@@ -1,21 +1,17 @@
-<h1><strong>LAW : </strong> <br>Word Press Theme</h1>
+# LAW:
+## Word Press Theme
 
-<p>
-	<img src="https://i.ibb.co/WKsx2ww/Law-BG.png" alt="wp">
-</p>
+<img src="https://i.ibb.co/WKsx2ww/Law-BG.png" alt="wp">
 
-<p>Word Press website for your business.</p>
+### Word Press website for your business
 
-<p><strong>Word Press</strong> : https://wordpress.org/</p>
+#### Plugins for work: 
 
-<p><strong>Plugins for work : </strong><p> 
+[Unyson](http://unyson.io/ "Я ссылка")
 
-
-	
-<p>Unyson : http://unyson.io/</p>
+[Duplicator](https://snapcreek.com/duplicator/?utm_source=duplicator_free&utm_medium=wp_org&utm_content=desc_details&utm_campaign=duplicator_free "Я ссылка")
 
 
-<p>Duplicator : https://snapcreek.com/duplicator/?utm_source=duplicator_free&utm_medium=wp_org&utm_content=desc_details&utm_campaign=duplicator_free</p>
 
 
 
